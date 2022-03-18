@@ -25,8 +25,8 @@ This is stuff about the site. There's not much to say.
 
 ## Technologies Used
 
-- HTML
-- CSS
+- HTML semantics
+- Git
 
 
 ----
