@@ -20,8 +20,8 @@
 
 ## About the Site
 
-#### Roger Tenny's About Me
-This is stuff about me
+#### Roger Tenny's Site
+This is stuff about the site. There's not much to say.
 
 ## Technologies Used
 
